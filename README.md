@@ -1,4 +1,5 @@
-##Mon site web personnel
+## Mon site web personnel
+Ceci est le dépot de mon site personnel
 
-##Technologies utilisées
+## Technologies utilisées
 NextJS, React, TailwindCSS
