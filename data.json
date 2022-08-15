@@ -1,0 +1,28 @@
+{
+	"sections": [
+		{
+			"title": "PROJETS",
+			"items": [
+				{
+					"title": "Juravote",
+					"content": "Développement du site internet, mise en place d'une API (Strapi), développement de l'application mobile, design du site",
+					"link": "https://juravote.ch"
+				}
+			]
+		},
+		{
+			"title": "SKILLS",
+			"items": [
+				{
+					"title": "Langages & Librairies",
+					"content": "React, React Native, NextJS, Javascript, Typescript, TailwindCSS"
+				},
+				{
+					"title": "Design",
+					"content": "Figma, web design, mobile design"
+				}
+			]
+		}
+	],
+	"aboutMe": "Je suis étudiant en informatique. Je suis passioné par le développement web et mobile. J'apprécie également créer des designs soignés pour mes créations"
+}
